@@ -41,7 +41,7 @@ public class DeleteUpdateStudentData
 
         //execute delete query
     }
-
+    //Test
     public int updateStudentData(int studid) throws SQLException, ClassNotFoundException {
         // call getConnection() method
         int studen =0;
